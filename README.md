@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Profile Banner" />
+  <img src="https://raw.githubusercontent.com/Dilshan-Pasindu/Dilshan-Pasindu/main/assets/banner.svg" width="100%" alt="Profile Banner" />
 </p>
 
 <hr />
 
 ## 🚀 About Me
 
-I am an Artificial Intelligence undergraduate with a strong passion for building intelligent systems, intelligent products, and modern software experiences. My interests span AI, Machine Learning, Deep Learning, RAG, LLMs, Computer Vision, cloud technologies, and end-to-end software engineering. I enjoy turning ideas into reliable, polished applications and continuously learning across the full stack.
+I am an Artificial Intelligence undergraduate who enjoys building intelligent systems, real-world products, and reliable software experiences. My work focuses on AI, Machine Learning, Deep Learning, RAG, LLMs, Computer Vision, cloud deployment, and full-stack engineering. I am passionate about turning ideas into practical applications and continuously improving my technical craft.
 
 <hr />
 
@@ -89,12 +89,14 @@ I am an Artificial Intelligence undergraduate with a strong passion for building
 
 <div align="center">
 
-| Project | Description | Tech Stack |
+| Project | Summary | Tech Stack |
 |---|---|---|
-| DP Bot | A rule-based AI chatbot built in Python with memory, games, calculator, and history features. | Python, JSON, CLI |
-| AI Research Paper Summarizer | A project focused on summarizing research papers and extracting useful insights. | Python, NLP, Automation |
-| Medical Appointment Scheduling System | A practical solution for clinics and appointment scheduling workflows. | Java, Spring Boot, Database |
-| Vehicle Repair Management System | A management system for vehicle maintenance and repair operations. | Java, Full Stack |
+| DP Bot | A rule-based AI chatbot built in Python with memory, calculator, games, and conversation history. | Python, JSON, CLI |
+| AI Research Paper Summarizer | A project for summarizing academic papers and extracting key insights for faster research review. | Python, NLP, Automation |
+| Medical Appointment Scheduling System | A full-featured scheduling solution for clinics and patient booking workflows. | Java, Spring Boot, MySQL, REST APIs |
+| Vehicle Repair Management System | A management platform for vehicle maintenance, service tracking, and repair operations. | Java, Full Stack, Database |
+| WMT Module | A modular internal system component focused on workflow, task handling, and operational management. | Java, Spring Boot, REST APIs, Database |
+| Equi Hire | A hiring and equipment management project designed to streamline booking, asset handling, and user operations. | React, Node.js, Express, MongoDB |
 
 </div>
 
@@ -102,7 +104,7 @@ I am an Artificial Intelligence undergraduate with a strong passion for building
 
 ## 🎯 Current Focus
 
-Building AI applications, LLM-powered systems, RAG experiences, deep learning experiments, and scalable backend solutions while contributing to meaningful open-source and real-world projects.
+Building AI products, LLM-powered experiences, RAG systems, deep learning experiments, and scalable backend solutions while contributing to meaningful open-source and real-world projects.
 
 <hr />
 
@@ -121,7 +123,7 @@ Building AI applications, LLM-powered systems, RAG experiences, deep learning ex
   <a href="https://www.linkedin.com/in/dilshan-pasindu-4a477122a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:dilshanpasindu4002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Dilshan-Pasindu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/Dilshan-Pasindu?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Projects-Repository%20List-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 </p>
 
 <hr />
@@ -130,6 +132,7 @@ Building AI applications, LLM-powered systems, RAG experiences, deep learning ex
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dilshan-Pasindu&label=Profile%20Views&color=22D3EE&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Coffee%20Consumed-∞-8B5CF6?style=flat-square&logo=coffeescript&logoColor=white" alt="Coffee Counter" />
 </p>
 
 <p align="center">
@@ -141,13 +144,13 @@ Building AI applications, LLM-powered systems, RAG experiences, deep learning ex
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dilshan-Pasindu/Dilshan-Pasindu/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Dilshan-Pasindu/Dilshan-Pasindu/main/assets/snake.svg" alt="Contribution Snake" />
 </p>
 
 <hr />
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/Dilshan-Pasindu/Dilshan-Pasindu/main/assets/divider.svg" width="100%" alt="Divider" />
 </p>
 
 <p align="center">
