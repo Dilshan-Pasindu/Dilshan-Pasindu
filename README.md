@@ -67,20 +67,17 @@ I am an Artificial Intelligence undergraduate who enjoys building intelligent sy
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dilshan-Pasindu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshan-Pasindu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/GitHub%20Stats-Available-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats Badge" />
+  <img src="https://img.shields.io/badge/Top%20Languages-Python%20%2F%20Java-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="Top Languages Badge" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dilshan-Pasindu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Contribution%20Focus-Consistency%20%26%20Learning-38BDF8?style=for-the-badge&logo=git&logoColor=white" alt="Contribution Focus Badge" />
+  <img src="https://img.shields.io/badge/Projects-AI%20%26%20Full-Stack-EC4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects Badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilshan-Pasindu&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dilshan-Pasindu&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <a href="https://github.com/Dilshan-Pasindu"><img src="https://img.shields.io/badge/View%20GitHub%20Profile-Dilshan%20Pasindu-111827?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile" /></a>
 </p>
 
 <hr />
@@ -137,7 +134,9 @@ Building AI products, LLM-powered experiences, RAG systems, deep learning experi
 </p>
 
 <p align="center">
-  <img src="https://readme-quote-github.vercel.app/api?theme=dark&quote=Build%20what%20matters%20and%20learn%20every%20day." alt="Random Dev Quote" />
+  <blockquote>
+    <i>Build what matters and learn every day.</i>
+  </blockquote>
 </p>
 
 <hr />
