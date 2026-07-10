@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Profile Banner" />
+  <img src="https://raw.githubusercontent.com/Dilshan-Pasindu/Dilshan-Pasindu/main/assets/banner.svg" width="100%" alt="Profile Banner" />
 </p>
 
 <hr />
@@ -145,13 +145,13 @@ Building AI products, LLM-powered experiences, RAG systems, deep learning experi
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="assets/snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Dilshan-Pasindu/Dilshan-Pasindu/main/assets/snake.svg" alt="Contribution Snake" />
 </p>
 
 <hr />
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/Dilshan-Pasindu/Dilshan-Pasindu/main/assets/divider.svg" width="100%" alt="Divider" />
 </p>
 
 <p align="center">
