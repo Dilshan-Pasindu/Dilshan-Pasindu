@@ -39,27 +39,27 @@ I am an Artificial Intelligence undergraduate who enjoys building intelligent sy
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,c" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,ts,js,cpp,c" alt="Programming Languages" />
 </p>
 
-### Frontend
+### Frontend & Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,vite,html,css" alt="Frontend and Mobile" />
 </p>
 
-### Backend
+### Backend & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,nestjs,nodejs,express,spring" alt="Backend" />
 </p>
 
-### AI / Data
+### AI, Machine Learning & RAG
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,langchain,openai" alt="AI" />
+  <img src="https://skillicons.dev/icons?i=langchain,tensorflow,pytorch,opencv,sklearn,openai" alt="AI and ML" />
 </p>
 
-### Databases & Cloud
+### Databases & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,prisma,docker,git,github,vercel,netlify,firebase" alt="Databases and Cloud" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql,sqlite,prisma,docker,git,github,vercel,firebase" alt="Databases and DevOps" />
 </p>
 
 <hr />
@@ -68,12 +68,12 @@ I am an Artificial Intelligence undergraduate who enjoys building intelligent sy
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Stats-Available-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats Badge" />
-  <img src="https://img.shields.io/badge/Top%20Languages-Python%20%2F%20Java-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="Top Languages Badge" />
+  <img src="https://img.shields.io/badge/Top%20Domains-AI%20%26%20Full--Stack-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="Top Domains Badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contribution%20Focus-Consistency%20%26%20Learning-38BDF8?style=for-the-badge&logo=git&logoColor=white" alt="Contribution Focus Badge" />
-  <img src="https://img.shields.io/badge/Projects-AI%20%26%20Full-Stack-EC4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects Badge" />
+  <img src="https://img.shields.io/badge/Focus-Multi--Agent%20%26%20RAG-38BDF8?style=for-the-badge&logo=robot&logoColor=white" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-EC4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Status Badge" />
 </p>
 
 <p align="center">
@@ -86,14 +86,15 @@ I am an Artificial Intelligence undergraduate who enjoys building intelligent sy
 
 <div align="center">
 
-| Project | Summary | Tech Stack |
+| Project | Description & Key Highlights | Tech Stack |
 |---|---|---|
-| DP Bot | A rule-based AI chatbot built in Python with memory, calculator, games, and conversation history. | Python, JSON, CLI |
-| AI Research Paper Summarizer | A project for summarizing academic papers and extracting key insights for faster research review. | Python, NLP, Automation |
-| Medical Appointment Scheduling System | A full-featured scheduling solution for clinics and patient booking workflows. | Java, Spring Boot, MySQL, REST APIs |
-| Vehicle Repair Management System | A management platform for vehicle maintenance, service tracking, and repair operations. | Java, Full Stack, Database |
-| WMT Module | A modular internal system component focused on workflow, task handling, and operational management. | Java, Spring Boot, REST APIs, Database |
-| Equi Hire | A hiring and equipment management project designed to streamline booking, asset handling, and user operations. | React, Node.js, Express, MongoDB |
+| [🩺 **MediFlow AI**](https://github.com/Dilshan-Pasindu/MediFlow-AI-) | **Multi-Agent Healthcare & Clinical Management Ecosystem**<br>Full-stack channeling center platform featuring AI specialist recommendations, doctor clinical decision support (CDS), e-prescriptions, and AI-monitored inventory restocking with Human-in-the-Loop workflows. | `ASP.NET Core 8`, `PostgreSQL 16`, `React 19`, `TypeScript`, `Flutter`, `LangGraph`, `FastAPI` |
+| [📑 **DP Research Hub**](https://github.com/Dilshan-Pasindu/AI-Research-Paper-Summarizer-Research-Assistant) | **AI Research Assistant & RAG Platform**<br>Production-ready research intelligence platform supporting PDF parsing, context-aware RAG chat, citation extraction, structured paper summaries, and side-by-side paper comparisons. | `Next.js 15`, `NestJS`, `FastAPI`, `LangChain`, `Gemini API`, `ChromaDB`, `PostgreSQL`, `Docker` |
+| [💻 **DP Laptop Advisor**](https://github.com/Dilshan-Pasindu/Laptop-Recommendation-System) | **ML-Powered Laptop Recommendation Engine**<br>Full-stack intelligent recommendation system evaluating 3,900+ laptops with Cosine Similarity, weighted multi-factor scoring, live autocomplete, and 13-category comparison. | `FastAPI`, `Scikit-learn`, `Python`, `React 19`, `Vite`, `Framer Motion`, `Pandas` |
+| [🛡️ **EquiHire-Core**](https://github.com/Dilshan-Pasindu/EquiHire-Core) | **AI-Native Blind Assessment Platform**<br>Cognitive bias firewall for technical hiring that redacts candidate PII, runs zero-shot relevance screening with HuggingFace, and performs adaptive scoring via Gemini Flash with real-time integrity monitoring. | `WSO2 Ballerina`, `Python`, `Gemini Flash`, `HuggingFace BART`, `Supabase`, `Cloudflare R2`, `React` |
+| [🚗 **VSRMS**](https://github.com/Dilshan-Pasindu/vehicle-repair-rms) | **Vehicle Service & Repair Management System**<br>Mobile-first platform connecting vehicle owners and workshops with GeoJSON geospatial discovery, real-time appointment state machines, and historical service tracking. | `React Native (Expo)`, `Node.js`, `Express`, `MongoDB Atlas`, `Cloudflare R2`, `WSO2 Asgardeo` |
+| [❤️ **Heart Disease Risk Classifier**](https://github.com/Dilshan-Pasindu/my_classifier_project) | **Clinical Machine Learning Prediction System**<br>End-to-end ML classification pipeline for heart disease risk with exploratory data analysis, hyperparameter tuning, ROC/confusion matrix evaluation, and interactive Streamlit web app. | `Python`, `Scikit-learn`, `Streamlit`, `Pandas`, `Joblib`, `Matplotlib` |
+| [🤖 **DP ChatBot**](https://github.com/Dilshan-Pasindu/DPChatBot-P1-) | **Conversational Assistant & Utility Agent**<br>Interactive conversational assistant built with persistent user memory, mathematical calculations, integrated mini-games, and conversational session history tracking. | `Python`, `JSON`, `CLI` |
 
 </div>
 
@@ -101,7 +102,10 @@ I am an Artificial Intelligence undergraduate who enjoys building intelligent sy
 
 ## 🎯 Current Focus
 
-Building AI products, LLM-powered experiences, RAG systems, deep learning experiments, and scalable backend solutions while contributing to meaningful open-source and real-world projects.
+- 🧠 **Multi-Agent Systems & Agentic AI** — Orchestrating autonomous workflows using LangGraph and FastAPI with Human-in-the-Loop decision gates.
+- 🔍 **Advanced RAG & Knowledge Retrieval** — Building high-accuracy semantic search, hybrid vector retrieval, and citation-grounded LLM systems.
+- 🏥 **Healthcare & Enterprise AI** — Developing reliable, production-grade applications with modern cross-platform stacks (ASP.NET Core, Next.js, Flutter, React).
+- 📈 **Machine Learning Pipelines** — Designing end-to-end data preparation, model evaluation, and deployment workflows.
 
 <hr />
 
